@@ -21,8 +21,7 @@ Retail-SQL-Analytics-Project/
 │   ├── 03_data_cleaning.sql
 │   ├── 04_analysis_queries.sql
 │   └── 05_views_procedures.sql
-└── dashboards/
-    └── (optional Power BI / Tableau files)
+
 ```
 ---
 
